@@ -1,0 +1,4 @@
+Calificación: 2.4/3
+
+Falta documentar ciertas funciones
+Desde el main hay que llamar al menos 2 veces a cada función
